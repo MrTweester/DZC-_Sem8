@@ -30,7 +30,6 @@ void PrintMatrix(int[,,] arr)
     }
 }
 
-// Функция заполнения 3D массива не повторяющимеся числами
 void FillMatrixWhithRandomNumbers(int[,,] arr)
 {
     int count = 10;
